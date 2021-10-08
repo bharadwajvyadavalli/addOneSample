@@ -1,5 +1,3 @@
-# Example Package
+# How to create an installable PyPi package
 
-This is a simple example package. You can use
-[Github-flavored Markdown](https://guides.github.com/features/mastering-markdown/)
-to write your content.
+Please follow instructions from the official Python package documentation site @ https://packaging.python.org/tutorials/packaging-projects/ to setup a sample PyPi installable library.
